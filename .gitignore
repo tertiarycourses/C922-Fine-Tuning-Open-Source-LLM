@@ -1,0 +1,18 @@
+# WSQ source clone (read-only input) and confidential material
+source-wsq/
+assessment/
+reference/
+# Local build helpers and scratch
+tools/__pycache__/
+*-inspect.txt
+src-*.txt
+out-*.txt
+.DS_Store
+~$*
+.env
+**/.env
+tools/
+lp-*.txt
+lg-*.txt
+*.zip
+__pycache__/
